@@ -7,3 +7,15 @@
 h1 {
     color: blue;
 }
+
+nav {
+    display: flex;
+}
+
+a {
+    color: #000;
+}
+
+section{
+    height: 100vh;
+}
